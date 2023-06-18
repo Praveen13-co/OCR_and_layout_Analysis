@@ -57,11 +57,16 @@ pip install layoutparser torchvision && pip install "detectron2@git+https://gith
 
 ## Sample Output
 
+### Original Image
+
+![alt text](https://github.com/Praveen13-co/OCR_and_layout_Analysis/blob/main/Result_Original_image.png "a suitable frame")
+
+
 ### OCR Results Bounding Boxes
 
-![alt text](https://github.com/yuyangch/UAV_Person_Identification_ws/blob/main/src/frame574.jpg "a suitable frame")
+![alt text](https://github.com/Praveen13-co/OCR_and_layout_Analysis/blob/main/Result_OCR_With_Bounding_Boxes.png "a suitable frame")
 
 
 ### Layout Results Bounding Boxes
 
-![alt text](https://github.com/yuyangch/UAV_Person_Identification_ws/blob/main/src/frame574.jpg "a suitable frame")
+![alt text](https://github.com/Praveen13-co/OCR_and_layout_Analysis/blob/main/Result_Layout_Result_With_Bounding_Boxes.png "a suitable frame")
