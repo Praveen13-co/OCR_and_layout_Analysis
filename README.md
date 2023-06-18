@@ -57,7 +57,11 @@ pip install layoutparser torchvision && pip install "detectron2@git+https://gith
 
 ## Sample Output
 
-Establish 3D to 2D marker association for a single frame to find said camera's pose
-### Select a proper frame with as many markers clearly visible as possible
-Ideally a frame with subject up close, such as this one.
+### OCR Results Bounding Boxes
+
+![alt text](https://github.com/yuyangch/UAV_Person_Identification_ws/blob/main/src/frame574.jpg "a suitable frame")
+
+
+### Layout Results Bounding Boxes
+
 ![alt text](https://github.com/yuyangch/UAV_Person_Identification_ws/blob/main/src/frame574.jpg "a suitable frame")
