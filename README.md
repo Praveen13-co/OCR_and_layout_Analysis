@@ -7,7 +7,7 @@
 https://youtu.be/RrRZnBmmBQE
 
 ## Presentation Link
-https://youtu.be/YKl9Zqb](https://drive.google.com/file/d/1rAE7yDtFV060ZP3m8hT7mJUV04LjhFsx/view?usp=sharing
+https://drive.google.com/file/d/1rAE7yDtFV060ZP3m8hT7mJUV04LjhFsx/view?usp=sharing
 
 ## Installation
 
