@@ -1,9 +1,7 @@
 # OCR_and_layout_Analysis
 
 
-```
-python3 4_find_pixel_coord_by_click.py
-```
+
  
 ## Demo recording
 https://youtu.be/YKl9Zqb
