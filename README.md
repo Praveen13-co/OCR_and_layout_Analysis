@@ -50,3 +50,14 @@ pip install pillow
 pip install layoutparser torchvision && pip install "detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.5#egg=detectron2"
 ```
 
+
+
+
+
+
+## Sample Output
+
+Establish 3D to 2D marker association for a single frame to find said camera's pose
+### Select a proper frame with as many markers clearly visible as possible
+Ideally a frame with subject up close, such as this one.
+![alt text](https://github.com/yuyangch/UAV_Person_Identification_ws/blob/main/src/frame574.jpg "a suitable frame")
