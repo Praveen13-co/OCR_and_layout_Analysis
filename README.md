@@ -55,6 +55,14 @@ pip install layoutparser torchvision && pip install "detectron2@git+https://gith
 
 
 
+## Run the Code
+
+### Command
+
+```
+streamlit run OCR.py
+```
+
 
 
 
